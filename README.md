@@ -3,7 +3,7 @@
 🎯 **`Buscando estágio em desenvolvimento Java`**
 
 Sou estudante de programação com foco em **Java**, construindo uma base sólida em **orientação a objetos, lógica e boas práticas de código**.
-Atualmente evoluindo para desenvolvimento backend.
+Atualmente evoluindo para desenvolvimento backend. Sou formado em Nutrição e já fiz manutenção de computadores por 5 anos, agora decidi migrar totalmente para a área de desenvolvimento.
 
 ---
 
@@ -24,18 +24,6 @@ Atualmente evoluindo para desenvolvimento backend.
 
 ---
 
-## 💼 Experiência anterior
-
-* 🔧 **5 anos com manutenção de computadores**
-
-  * Diagnóstico e resolução de problemas
-  * Organização e raciocínio técnico
-  * Atendimento e comunicação com clientes
-
-* 🥗 **Formação em Nutrição**
-
----
-
 ## 🧰 Ferramentas
 
 * Java
@@ -44,9 +32,4 @@ Atualmente evoluindo para desenvolvimento backend.
 * VS Code
 
 ---
-
-## 📫 Contato
-
-* 💼 LinkedIn: www.linkedin.com/in/danieldesadev
-* 📧 Email: danieldesadev@gmail.com
 
