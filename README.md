@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá, eu sou Daniel
 
-<!--
-**danieldesadev/danieldesadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **`Buscando estágio em desenvolvimento Java`**
 
-Here are some ideas to get you started:
+Sou estudante de programação com foco em **Java**, construindo uma base sólida em **orientação a objetos, lógica e boas práticas de código**.
+Atualmente evoluindo para desenvolvimento backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Em desenvolvimento
+
+* ☕ Java (POO, Collections, Enum, Composição)
+* 🧠 Lógica de programação
+* 🔧 Git e GitHub
+* 📚 Estruturação de projetos
+
+---
+
+## 📈 Próximos passos
+
+* 🗄️ Banco de dados (SQL)
+* 🌐 API REST
+* 🍃 Spring Boot
+
+---
+
+## 💼 Experiência anterior
+
+* 🔧 **5 anos com manutenção de computadores**
+
+  * Diagnóstico e resolução de problemas
+  * Organização e raciocínio técnico
+  * Atendimento e comunicação com clientes
+
+* 🥗 **Formação em Nutrição**
+
+---
+
+## 🧰 Ferramentas
+
+* Java
+* Git & GitHub
+* IntelliJ / Eclipse
+* VS Code
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: www.linkedin.com/in/danieldesadev
+* 📧 Email: danieldesadev@gmail.com
+
