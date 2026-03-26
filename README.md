@@ -24,12 +24,3 @@ Atualmente evoluindo para desenvolvimento backend. Sou formado em Nutrição e j
 
 ---
 
-## 🧰 Ferramentas
-
-* Java
-* Git & GitHub
-* IntelliJ / Eclipse
-* VS Code
-
----
-
